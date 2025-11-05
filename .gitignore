@@ -1,6 +1,6 @@
 # Streamlit
 .streamlit/secrets.toml
-
+.venv/
 # project
 clustering/
 topic_modelling/
